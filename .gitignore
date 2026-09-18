@@ -1,0 +1,16 @@
+# Data is downloaded locally (see data/README.md); never commit it
+data/raw/
+data/processed/
+*.csv.gz
+# except small documentation samples
+!docs/samples/*.csv
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+~$*.docx

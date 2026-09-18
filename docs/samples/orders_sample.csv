@@ -1,0 +1,9 @@
+order_id,customer_id,geohash,vendor_id,primary_cuisine,product_id,name,unit_price,day_of_week,order_time,order_day
+1188376,54dc6d3cbf,w21z6,2ee5659d,chinese,7a3bd9266b83,1022 Marmite Chicken Bento Set 妈蜜鸡丁套餐,0.0048,6,18:13:26,35
+673460,f68655bae9,w21zb,f49aea1a,japanese,120b8e43ac63,3.Salmon + Pork Katsu Bento 三文鱼+炸猪排饭盒 ,0.0028,5,16:27:36,62
+160126,3df0afd086,w21zu,49de578b,asian,69c47827dbdd,Vegetarian Bee Hoon,0.0048,3,08:48:05,4
+1743166,969abe0e1d,w21zu,fbbb6785,burgers,e270cc3013bb,FISH’N CRISP CROISSAN'WICH® Meal,0.0028,1,09:29:28,23
+1913308,2bdbc42d2c,w23bh,fc64fe17,chicken rice,2b2955250ae8,Roasted Chicken Rice with Beverage 烧鸡饭和水,0.0028,6,16:44:32,49
+1089155,7f089e7e3f,w21ze,ddcf22f1,chicken rice,199589d9ae62,Signature White Chicken for 1 Pax,0.0024,3,12:31:58,74
+1387829,c179bdbc9e,w21zt,5aa428a9,chinese,546b74422191,Fried Chinese Cabbage & Fungus with Garlic 木耳大白菜,0.0032,5,13:07:46,55
+242402,d7e2721d7b,w21zg,85443216,indian,0ebd485a06ce,B02. Briyani Chicken,0.0044,0,11:43:43,64
